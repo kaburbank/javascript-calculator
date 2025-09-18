@@ -15,3 +15,7 @@ Displays the calculation history upon request.
     A function to add to the history and be used in all of the simple operation functions
 
     A function to display the history or inform the user that they have no stored calculations
+
+
+Pseudocode:
+
